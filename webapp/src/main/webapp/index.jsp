@@ -9,7 +9,7 @@
     <br>
 
     <label for="Age"><b>Enter Age</b></label>
-    <input type="text" placeholder="Enter Age" name="Age" id="Age" required>
+    <input type="text" placeholder="My name is Rina" name="Age" id="Age" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
